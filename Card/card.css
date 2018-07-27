@@ -1,0 +1,31 @@
+/*.footerrow {*/
+    /*width: 100% !important;*/
+/*}*/
+
+/*.cartp {*/
+    /*padding: 10px 24px;*/
+    /*text-align: justify;*/
+/*}*/
+
+/*.card-header {*/
+    /*background: linear-gradient(60deg, #eee0, #f1f0f0) !important;*/
+/*}*/
+
+/*.card-title > h3 {*/
+    /*margin-top: 13px;*/
+    /*margin-bottom: -11px;*/
+    /*margin-left: 28px;*/
+/*}*/
+
+body {
+    padding: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.card-location-icon {
+    font-size: 16px;
+}
+
+.location-text {
+    font-size: 16px;
+}
